@@ -1,0 +1,3 @@
+name: CI; on: [push,pull_request]
+jobs:
+  ci: { uses: clawto/.github/.github/workflows/skill-ci.yml@main, with: { skill_name: money-toolkit } }
