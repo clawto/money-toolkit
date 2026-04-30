@@ -63,7 +63,7 @@ clawhub install clawto/money-toolkit
 > 每月定投1000U，年化15%，10年后多少钱？
 ```
 
-## 🫶 Support
+## 🫶 Donation
 
 | Coin | Address |
 |------|---------|
